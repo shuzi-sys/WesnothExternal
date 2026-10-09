@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="WesnothExternal/WesnothExternal.vcxproj" Id="a9d89120-8d3f-455d-9a20-311bfdfeab53" />
+</Solution>

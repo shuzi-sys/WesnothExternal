@@ -1,0 +1,9 @@
+﻿  main.cpp
+C:\Users\alain\source\repos\WesnothExternal\WesnothExternal\main.cpp(5,2): error C2664: 'BOOL ReadProcessMemory(HANDLE,LPCVOID,LPVOID,SIZE_T,SIZE_T *)': el argumento 2 no puede convertirse de 'int' a 'LPCVOID'
+      C:\Users\alain\source\repos\WesnothExternal\WesnothExternal\main.cpp(5,41):
+      La conversión de un tipo entero a un tipo de puntero requiere reinterpret_cast, conversión de estilo de C o conversión de estilo de función entre paréntesis
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.28000.0\um\memoryapi.h(152,1):
+      vea la declaración de 'ReadProcessMemory'
+      C:\Users\alain\source\repos\WesnothExternal\WesnothExternal\main.cpp(5,2):
+      al hacer coincidir la lista de argumentos '(HANDLE, int, nullptr, int, nullptr)'
+  
